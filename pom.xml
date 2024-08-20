@@ -99,7 +99,7 @@
                             <!-- Optional: Specify the main class for the JAR manifest -->
                             <transformers>
                                 <transformer implementation="org.apache.maven.plugins.shade.resource.ManifestResourceTransformer">
-                                    <mainClass>inc.asterix.fim.ApplicationStarter</mainClass>
+                                    <mainClass>asterix.main.Application</mainClass>
                                 </transformer>
                             </transformers>
                         </configuration>
