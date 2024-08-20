@@ -16,5 +16,5 @@ Develped By:
 * To test the app simply navigate to this jar in the cmd: 
 * 'target\asterix-jar.jar'
 * And the run 'java -jar asterix-jar.jar'
-* after this the should run with no issue
+* after this the app should run with no issue
 
