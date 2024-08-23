@@ -32,4 +32,4 @@
   * The App uses a Mysql database, this database will store the user info(username, email, pass, secret key)
   * The database will also store the the files to be surveilled with thier content encrypted.       
   
-
+### Copright 2024 © [Mehdi Ismaaili](https://github.com/mehdiismaaili)
