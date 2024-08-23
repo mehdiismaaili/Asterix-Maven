@@ -18,10 +18,10 @@
   * Then open it in vs code an then navigate to this class ```src/main/java/asterix/main/Application.java``` press the run button and it should work.
   * Note : If you find any issues while trying to run the app please report to us.
 
-## Techonlgies used to develope the app
+### Techonlgies used to develope the app
 - [Java](https://www.java.com/en/):
-  * The app developed in java, from the backend to the GUI, we used JFrame framework for the GUI
-    and used flatflaf to design it.
+  * The app was developed in java, from the backend to the GUI, we used JFrame framework for the GUI
+    and used flatflaf look and feel to design it.
   * With java we were able to develope most of the functionalities for our application, from
     the changes detection, reporting of the changes and also create a visual representations for
     the integretted files stats(modificaions, type of modiffications, graphs...).
