@@ -18,7 +18,7 @@
   * Then open it in vs code an then navigate to this class ```src/main/java/asterix/main/Application.java``` press the run button and it should work.
   * Note : If you find any issues while trying to run the app please report to us.
 
-### Techonlgies used to develope the app
+## Techonlgies used to develope the app
 - [Java](https://www.java.com/en/):
   * The app was developed in java, from the backend to the GUI, we used JFrame framework for the GUI
     and used flatflaf look and feel to design it.
