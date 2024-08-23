@@ -21,10 +21,10 @@
 ## Techonlgies used to develope the app
 - [Java](https://www.java.com/en/):
   * The app developed in java, from the backend to the GUI, we used JFrame framework for the GUI
-    and used flatflaf to design the GUI.
+    and used flatflaf to design it.
   * With java we were able to develope most of the functionalities for our application, from
     the changes detection, reporting of the changes and also create a visual representations for
-    the integretted files stats(modificaions, type of modiffications, graphs).
+    the integretted files stats(modificaions, type of modiffications, graphs...).
      
 - [Mysql](https://www.mysql.com/en/):
   * The App uses a Mysql database, this database will store the user info(username, email, pass, secret key)
