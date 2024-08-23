@@ -8,13 +8,14 @@ Develped By:
 
 ## How To run The App
 ### Database set up
-* The app uses a mysql database so you need to install Mysql & Mysql Wrokbenche 
+* The app uses a mysql database so you need to install Mysql community & Mysql Wrokbenche 
 * localy on your machine then create a database called 'asterix' and for the user
 * Leave it as 'root' just set the password to 'hightech2024'
 
 ### Note: You must have jdk22 installed in your machine to run the app
-* To test the app simply navigate to this jar in the cmd: 
-* 'target\asterix-jar.jar'
-* And the run 'java -jar asterix-jar.jar'
-* after this the app should run with no issue
+* To run the app you can clone the app with this command ```git clone https://github.com/mehdicode123/Asterix-Maven.git```
+* Then open it in vs code an then navigate to this class ```src/main/java/asterix/main/Application.java``` press the run button and it shoudl work.
+* Note : If you find any issues while trying to run the app please tell me
+
+  ## Techonlgies used to run the app
 
